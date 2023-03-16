@@ -7,13 +7,18 @@
 
 ## What I Use:
 - Swift (Xcode app development)
+  - SwiftUI, AppKit, UIKit for frontend
+  - Vanilla swift, plus several -kits like VisionKit for backend and processing
 - Python (AI, data analysis, algorithms)
 - Lua (Love2d game development)
 - Applescript (macOS Automation)
-- Small amounts of Golang and C as well
 
 ## What I'm Working On
-- Project Manager for the [AuroraEditor project](https://github.com/AuroraEditor/AuroraEditor/pull/135)
+- Maintainer for the [CodeEdit project](https://github.com/CodeEditApp/CodeEdit)
+- Chief developer of [SST Announcer](https://github.com/KaiTheRedNinja/SST-Announcer-SwiftUI)
+
+## How to contact me
+- Shoot me an email at `kaitay303@gmail.com`
 
 <!---
 KaiTheRedNinja/KaiTheRedNinja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
